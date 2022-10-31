@@ -1,0 +1,42 @@
+#yellowBalloon{
+    width: 100px;
+    height: 132px;
+}
+
+#gameTitle{
+    color: blueviolet;
+    font-style: italic;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+#gameDescription{
+    color: darkorange;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+#logo{
+    position: absolute;
+    top: 4%;
+    Left: 97%;
+    transform: translate(-50%, -50%);
+}
+
+#button{
+    width: 100px;
+    height: 30px;
+    background-color: rgb(146, 158, 226);
+    color: black;
+    position: absolute;
+    top: 19%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+#gif{
+    width: 200px;
+    height: 200px; 
+    position: absolute;
+    top: 35%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
